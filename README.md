@@ -52,8 +52,6 @@ To check which CUDA version you have installed, run:
 nvcc --version
 ```
 
-If you don’t have CUDA installed, follow the official installation guide:  
-🔗 [CUDA Installation Guide](https://developer.nvidia.com/cuda-downloads)
 
 ---
 
