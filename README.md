@@ -1,6 +1,4 @@
-Here's an improved version with detailed steps, proper markdown formatting, and clear instructions:
 
----
 
 # Langchain-Transformers-Python
 
